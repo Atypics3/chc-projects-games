@@ -1,2 +1,3 @@
-# chc-projects-games
-Games and/or projects that are done by Chabot's Computer Hardware Club
+A hangman game
+
+Source: https://data-flair.training/blogs/hangman-game-python-code/
