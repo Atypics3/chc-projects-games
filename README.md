@@ -1,13 +1,4 @@
-Games and/or projects that are done by Chabot's Computer Hardware Club
-
-# Table of Contents
-* Projects/Programs
-  * [Digital Calculator](https://github.com/Atypics3/chc-projects-games/tree/digi_calc)
-  * [Fizzbuzz](https://github.com/Atypics3/chc-projects-games/tree/fizzbuzz)
-
-
-* Games
-  * [Hangman Game](https://github.com/Atypics3/chc-projects-games/tree/hangman)
+Source: https://docs.replit.com/tutorials/19-build-snake-with-pygame
 
 
 
