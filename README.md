@@ -9,7 +9,7 @@ Games and/or projects that are done by Chabot's Computer Hardware Club
 * Games
   * [Hangman Game](https://github.com/Atypics3/chc-projects-games/tree/hangman)
   * [Snake](https://github.com/Atypics3/chc-projects-games/tree/snake)
-  * [2-D Platformer](https://github.com/Atypics3/chc-projects-games/tree/2D_Platformer)
+  * [Rock-Paper-Scissors](https://github.com/Atypics3/chc-projects-games/tree/RPS)
 
 
 
