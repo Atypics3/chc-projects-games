@@ -5,7 +5,7 @@ Games and/or projects that are done by Chabot's Computer Hardware Club
   * [Digital Calculator](https://github.com/Atypics3/chc-projects-games/tree/digi_calc)
   * [Fizzbuzz](https://github.com/Atypics3/chc-projects-games/tree/fizzbuzz)
   * [Pong](https://github.com/Atypics3/chc-projects-games/tree/pong)
-  * [Portfolio Website](https://github.com/Atypics3/chc-projects-games/tree/portfolio)
+  * [Portfolio Website](https://github.com/Atypics3/portfolio_website)
 
 
 * Games
