@@ -1,4 +1,4 @@
-Games and/or projects that are done by Chabot's Computer Hardware Club
+Games and/or projects that are done by Chabot's Computer Hardware Club (from least recent to most recent)
 
 # Table of Contents
 * Projects/Programs
@@ -6,6 +6,8 @@ Games and/or projects that are done by Chabot's Computer Hardware Club
   * [Fizzbuzz](https://github.com/Atypics3/chc-projects-games/tree/fizzbuzz)
   * [Pong](https://github.com/Atypics3/chc-projects-games/tree/pong)
   * [Portfolio Website](https://github.com/Atypics3/portfolio_website)
+  * [Tip Calculator](https://github.com/Atypics3/chc-projects-games/tree/tipCalculator)
+  * [To-Do List](https://github.com/Atypics3/chc-projects-games/tree/todoList)
 
 
 * Games
