@@ -14,6 +14,8 @@ Games and/or projects that are done by Chabot's Computer Hardware Club (from lea
   * [Hangman Game](https://github.com/Atypics3/chc-projects-games/tree/hangman)
   * [Snake](https://github.com/Atypics3/chc-projects-games/tree/snake)
   * [Rock-Paper-Scissors](https://github.com/Atypics3/chc-projects-games/tree/RPS)
+  * [Unity FPS Microgame](https://learn.unity.com/project/fps-template)
+  * [Unity 2-D Platformer Microgame](https://learn.unity.com/project/2d-platformer-template)
 
 
 
